@@ -1,0 +1,44 @@
+{
+    "author": "oneilltm@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "bills",
+    "pebble": {
+        "capabilities": [
+            "health"
+        ],
+        "displayName": "Buffalo Bills",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/bills_no_bt",
+                    "name": "BILLS_BACKGROUND_NO_BT",
+                    "targetPlatforms": [
+                        "chalk"
+                    ],
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/bills_bt",
+                    "name": "BILLS_BACKGROUND",
+                    "targetPlatforms": [
+                        "chalk"
+                    ],
+                    "type": "bitmap"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "chalk"
+        ],
+        "uuid": "09e09c52-59b4-44be-9530-3149c1920870",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
