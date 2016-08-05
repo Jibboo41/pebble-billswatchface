@@ -1,5 +1,5 @@
 {
-    "author": "oneilltm@gmail.com",
+    "author": "Jibboo41",
     "dependencies": {},
     "keywords": [],
     "name": "bills",
@@ -35,7 +35,7 @@
         "targetPlatforms": [
             "chalk"
         ],
-        "uuid": "09e09c52-59b4-44be-9530-3149c1920870",
+        "uuid": "8013b5b3-cc35-4893-a5b0-758870bac265",
         "watchapp": {
             "watchface": true
         }
